@@ -18,4 +18,28 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+
+}
+.cat01,.cat02,.cat03{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat01{
+    background-color: orange;
+}
+.cat02{
+    background-color: orchid;
+}
+.cat03{
+    background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
 }
